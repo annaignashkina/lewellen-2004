@@ -3,8 +3,8 @@ import matplotlib.pyplot as plt
 import math
 import statsmodels.api as sm
 
-# Disclaimer: All errors are mine.
-
+# Disclaimer: All errors are ours.
+# Authors: Anna Ignashkina, Maksim Nezhelskii
 def mult(x, s):
 	q=1
 	for i in range(1,s+1):
