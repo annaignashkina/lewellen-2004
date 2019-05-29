@@ -1,9 +1,6 @@
 import pandas as pd
 import matplotlib.pyplot as plt
-import numpy as np
-import scipy
 import math
-from matplotlib.ticker import FuncFormatter
 import statsmodels.api as sm
 
 # Disclaimer: All errors are mine.
